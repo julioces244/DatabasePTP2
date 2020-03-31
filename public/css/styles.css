@@ -1,0 +1,58 @@
+
+.myButton {
+    background:url(/images/icons/ic_delete.png) no-repeat;
+    background-size: 40px 40px;
+    cursor:pointer;
+    width: 40px;
+    height: 40px;
+    border: none;
+}
+
+.myButton:hover{
+  background:url(/images/icons/ic_delete2.png) no-repeat;
+  color: orange;
+  background-size: 40px 40px;
+  width: 40px;
+  height: 40px;
+  transition: .5s;
+}
+
+
+.myButtonCard {
+    background:url(/images/icons/ic_studentcard.png) no-repeat;
+    background-size: 40px 40px;
+    cursor:pointer;
+    width: 40px;
+    height: 40px;
+    border: none;
+}
+
+.myButtonCard:hover{
+  background:url(/images/icons/ic_studentcard2.png) no-repeat;
+  color: orange;
+  background-size: 40px 40px;
+  width: 40px;
+  height: 40px;
+  transition: .5s;
+}
+
+.image {
+    border-radius: 50%;
+    border-width: medium;
+}
+
+.nonline {
+  display: inline;
+  white-space: normal;
+  color:#91AE34;
+  font-family: Candara;
+  font-weight: bold;
+  font-size: 20px;
+}
+.nonline2{
+  display: inline;
+  white-space: normal;
+  font-family: Candara;
+  font-weight: bold;
+  font-size: 20px;
+}
