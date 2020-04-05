@@ -13,7 +13,7 @@ class AmbientesTableSeeder extends Seeder
     {
         DB::table('ambientes')->insert([
             'idambiente' => 1,
-            'codigo' => 'LC1',
+            'codigo' => 'LC1_JSM',
             'nombre' => 'Laboratorio de Computo',
             'ncomputadoras' => '18',
             'colegios_idcolegio' => 2,
@@ -21,7 +21,7 @@ class AmbientesTableSeeder extends Seeder
 
         DB::table('ambientes')->insert([
             'idambiente' => 2,
-            'codigo' => 'LC2',
+            'codigo' => 'LC2_JSM',
             'nombre' => 'Laboratorio de Computo',
             'ncomputadoras' => '18',
             'colegios_idcolegio' => 2,
@@ -29,7 +29,7 @@ class AmbientesTableSeeder extends Seeder
 
         DB::table('ambientes')->insert([
             'idambiente' => 3,
-            'codigo' => 'LC3',
+            'codigo' => 'LC_BP',
             'nombre' => 'Laboratorio de Computo',
             'ncomputadoras' => '36',
             'colegios_idcolegio' => 1,
@@ -37,7 +37,7 @@ class AmbientesTableSeeder extends Seeder
 
         DB::table('ambientes')->insert([
             'idambiente' => 4,
-            'codigo' => 'LC4',
+            'codigo' => 'LC_RPB',
             'nombre' => 'Laboratorio de Computo',
             'ncomputadoras' => '31',
             'colegios_idcolegio' => 5,
@@ -45,7 +45,7 @@ class AmbientesTableSeeder extends Seeder
 
         DB::table('ambientes')->insert([
             'idambiente' => 5,
-            'codigo' => 'LC5',
+            'codigo' => 'LC_FA',
             'nombre' => 'Laboratorio de Computo',
             'ncomputadoras' => '31',
             'colegios_idcolegio' => 11,
@@ -53,7 +53,7 @@ class AmbientesTableSeeder extends Seeder
 
         DB::table('ambientes')->insert([
             'idambiente' => 6,
-            'codigo' => 'LC6',
+            'codigo' => 'LC_BH',
             'nombre' => 'Laboratorio de Computo',
             'ncomputadoras' => '36',
             'colegios_idcolegio' => 13,
@@ -61,7 +61,7 @@ class AmbientesTableSeeder extends Seeder
 
         DB::table('ambientes')->insert([
             'idambiente' => 7,
-            'codigo' => 'LC7',
+            'codigo' => 'LC_JCM',
             'nombre' => 'Laboratorio de Computo',
             'ncomputadoras' => '31',
             'colegios_idcolegio' => 3,
@@ -69,7 +69,7 @@ class AmbientesTableSeeder extends Seeder
 
         DB::table('ambientes')->insert([
             'idambiente' => 8,
-            'codigo' => 'LC8',
+            'codigo' => 'LC_JQG',
             'nombre' => 'Laboratorio de Computo',
             'ncomputadoras' => '31',
             'colegios_idcolegio' => 4,
@@ -77,7 +77,7 @@ class AmbientesTableSeeder extends Seeder
 
         DB::table('ambientes')->insert([
             'idambiente' => 9,
-            'codigo' => 'LC9',
+            'codigo' => 'LC_REO',
             'nombre' => 'Laboratorio de Computo',
             'ncomputadoras' => '31',
             'colegios_idcolegio' => 7,
@@ -85,7 +85,7 @@ class AmbientesTableSeeder extends Seeder
 
         DB::table('ambientes')->insert([
             'idambiente' => 10,
-            'codigo' => 'LC10',
+            'codigo' => 'LC_I',
             'nombre' => 'Laboratorio de Computo',
             'ncomputadoras' => '26',
             'colegios_idcolegio' => 6,
@@ -93,7 +93,7 @@ class AmbientesTableSeeder extends Seeder
 
         DB::table('ambientes')->insert([
             'idambiente' => 11,
-            'codigo' => 'LC11',
+            'codigo' => 'LC_JVA',
             'nombre' => 'Laboratorio de Computo',
             'ncomputadoras' => '35',
             'colegios_idcolegio' => 12,
@@ -101,7 +101,7 @@ class AmbientesTableSeeder extends Seeder
 
         DB::table('ambientes')->insert([
             'idambiente' => 12,
-            'codigo' => 'LC12',
+            'codigo' => 'LC_CNJ',
             'nombre' => 'Laboratorio de Computo',
             'ncomputadoras' => '31',
             'colegios_idcolegio' => 18,
@@ -109,7 +109,7 @@ class AmbientesTableSeeder extends Seeder
 
         DB::table('ambientes')->insert([
             'idambiente' => 13,
-            'codigo' => 'LC13',
+            'codigo' => 'LC_PSA',
             'nombre' => 'Laboratorio de Computo',
             'ncomputadoras' => '17',
             'colegios_idcolegio' => 15,
@@ -117,7 +117,7 @@ class AmbientesTableSeeder extends Seeder
 
         DB::table('ambientes')->insert([
             'idambiente' => 14,
-            'codigo' => 'LPT1',
+            'codigo' => 'LPT_JSM',
             'nombre' => 'Laboratorio de Tecnología',
             'ncomputadoras' => '1',
             'colegios_idcolegio' => 2,
@@ -125,7 +125,7 @@ class AmbientesTableSeeder extends Seeder
 
         DB::table('ambientes')->insert([
             'idambiente' => 15,
-            'codigo' => 'LPT2',
+            'codigo' => 'LPT_BP',
             'nombre' => 'Laboratorio de Tecnología',
             'ncomputadoras' => '1',
             'colegios_idcolegio' => 1,
@@ -133,7 +133,7 @@ class AmbientesTableSeeder extends Seeder
 
         DB::table('ambientes')->insert([
             'idambiente' => 16,
-            'codigo' => 'LPT3',
+            'codigo' => 'LPT_RPB',
             'nombre' => 'Laboratorio de Tecnología',
             'ncomputadoras' => '1',
             'colegios_idcolegio' => 5,
@@ -141,7 +141,7 @@ class AmbientesTableSeeder extends Seeder
 
         DB::table('ambientes')->insert([
             'idambiente' => 17,
-            'codigo' => 'LPT4',
+            'codigo' => 'LPT_JCM',
             'nombre' => 'Laboratorio de Tecnología',
             'ncomputadoras' => '1',
             'colegios_idcolegio' => 3,
@@ -149,7 +149,7 @@ class AmbientesTableSeeder extends Seeder
 
         DB::table('ambientes')->insert([
             'idambiente' => 18,
-            'codigo' => 'LPT5',
+            'codigo' => 'LPT_JVA',
             'nombre' => 'Laboratorio de Tecnología',
             'ncomputadoras' => '1',
             'colegios_idcolegio' => 12,
