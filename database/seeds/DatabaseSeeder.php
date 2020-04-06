@@ -17,6 +17,7 @@ class DatabaseSeeder extends Seeder
           ColegiosTableSeeder::class,
           MaterialesTableSeeder::class,
           AmbientesTableSeeder::class,
+          UsersTableSeeder::class,
         ]);
     }
 }
