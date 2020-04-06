@@ -15,7 +15,7 @@ class UsersTableSeeder extends Seeder
           'idUser' => 1,
           'name' => 'Luis',
           'lastname' => 'Fajardo',
-          'email' => 'luisfajardo'
+          'email' => 'luisfajardo',
           'codigo' => '100500',
           'password' => Hash::make('ccd2019'),
       ]);
@@ -24,7 +24,7 @@ class UsersTableSeeder extends Seeder
           'idUser' => 2,
           'name' => 'Melissa',
           'lastname' => 'Sanchez',
-          'email' => 'melissasanchez'
+          'email' => 'melissasanchez',
           'codigo' => '100600',
           'password' => Hash::make('ccd2019'),
       ]);
@@ -33,7 +33,7 @@ class UsersTableSeeder extends Seeder
           'idUser' => 1,
           'name' => 'Gene',
           'lastname' => 'Olarte',
-          'email' => 'geneolarte'
+          'email' => 'geneolarte',
           'codigo' => '100700',
           'password' => Hash::make('ccd2019'),
       ]);
