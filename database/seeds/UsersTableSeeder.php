@@ -30,7 +30,7 @@ class UsersTableSeeder extends Seeder
       ]);
 
       DB::table('users')->insert([
-          'idUser' => 1,
+          'idUser' => 3,
           'name' => 'Gene',
           'lastname' => 'Olarte',
           'email' => 'geneolarte',
