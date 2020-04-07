@@ -26,4 +26,6 @@ Route::post('{idestudiante}','AlumnoController@store_estudiante_material')->name
 Route::get('/export', 'AlumnoController@export');
 Route::post('delete_student/{idestudiante}','AlumnoController@destroy')->name('eliminar');
 Route::get('/show_student/{idestudiante}','AlumnoController@show');
+
+//Importar instrumentos
 Route::get('/archivos', 'InstrumentoController@importinstrumentos');
