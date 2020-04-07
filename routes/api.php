@@ -22,7 +22,7 @@ Route::get('/get_colegios', 'ColegioController@index');
 Route::get('/get_colegios/{idcolegio}','AmbienteController@indexbyid');
 
 Route::get('/get_instrumentos/{idambiente}','InstrumentoController@instrumentosporid');
-Route::get('/get_instrumentos/{codigoambiente}','InstrumentoController@instrumentospornombre');
+Route::get('/get_instrumentosname/{codigoambiente}','InstrumentoController@instrumentospornombre');
 
 
 Route::post('/login','Auth\LoginController@authenticate')->name('login');

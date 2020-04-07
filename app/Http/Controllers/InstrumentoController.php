@@ -52,7 +52,7 @@ class InstrumentoController extends Controller
 
       try{
         $idambiente = DB::table('ambientes')->where('codigo',$codigoambiente)->value('idAmbiente');
-
+        //dd($idambiente);
         $instrumentos = DB::table('instrumentos')->where('ambientes_idambiente',$idambiente)->get();
         return $instrumentos;
         return response()->json(['type' => 'success', 'message' => 'Lista obtenida'], 200);
