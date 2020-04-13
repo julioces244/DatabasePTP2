@@ -16,8 +16,8 @@ class MantenimientoController extends Controller
         $date = $date->format('d-m-Y');
 
         $mantenimientos = DB::table('mantenimientos')->where('colegios_idcolegio',$idcolegio)->get();
-        //return $mantenimientos;
-        return response()->json(['mantenimientos' => $mantenimientos, 'fecha' => $date]);
+        return $mantenimientos;
+        //return response()->json(['mantenimiento' => $mantenimientos, 'fecha' => $date]);
 
       }catch(\Exception $e){
 
