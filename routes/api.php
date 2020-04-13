@@ -19,6 +19,8 @@ Route::middleware('auth:api')->get('/user', function (Request $request) {
 
 Route::get('/get_colegios', 'ColegioController@index');
 
+Route::get('/get_fechasmantenimiento/{idcolegio}', 'MantenimientoController@obtenerfechas');
+
 Route::get('/get_colegios/{idcolegio}','AmbienteController@indexbyid');
 
 Route::get('/get_instrumentos/{idambiente}','InstrumentoController@instrumentosporid');

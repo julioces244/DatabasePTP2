@@ -63,6 +63,14 @@ class AddForeignKeyTables extends Migration
 
         });
 
+
+        Schema::table('mantenimientos', function (Blueprint $table) {
+
+          $table->unsignedBigInteger('colegios_idcolegio')->unsigned();
+          $table->foreign('colegios_idcolegio')->references('idcolegio')->on('colegios');
+
+        });
+
     }
 
     /**

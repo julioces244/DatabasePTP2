@@ -18,6 +18,7 @@ class DatabaseSeeder extends Seeder
           MaterialesTableSeeder::class,
           AmbientesTableSeeder::class,
           UsersTableSeeder::class,
+          MantenimientosTableSeeder::class,
         ]);
     }
 }
