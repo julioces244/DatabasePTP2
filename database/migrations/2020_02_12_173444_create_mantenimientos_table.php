@@ -16,9 +16,8 @@ class CreateMantenimientosTable extends Migration
         Schema::create('mantenimientos', function (Blueprint $table) {
             $table->engine = 'InnoDB';
             $table->bigIncrements('idmantenimiento');
-            $table->string('descripcion')->nullable($value = true);
+            $table->string('descripcion');
             $table->date('flimite');
-            $table->timestamps();
         });
     }
 
