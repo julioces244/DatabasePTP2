@@ -19,6 +19,7 @@ class DatabaseSeeder extends Seeder
           AmbientesTableSeeder::class,
           UsersTableSeeder::class,
           MantenimientosTableSeeder::class,
+          AncashprovincesTableSeeder::class,
         ]);
     }
 }

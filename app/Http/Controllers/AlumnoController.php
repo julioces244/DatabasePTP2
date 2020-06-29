@@ -157,7 +157,7 @@ class AlumnoController extends Controller
 
       $materialverify = $request->input('material');
 
-      dd(key($materialverify));
+      //dd(key($materialverify));
 
       //dd($materialverify);
       $checkmateriales = new Material();
