@@ -175,7 +175,7 @@ class AncashprovincesTableSeeder extends Seeder
 
       DB::table('ancashprovinces')->insert([
           'idancashprovinces' => 19,
-          'nombre' => 'Antonio Raymundo',
+          'nombre' => 'Antonio Raymondi',
           'poblacion' => '13950',
           'casos' => 16,
           'fallecidos' => 0,

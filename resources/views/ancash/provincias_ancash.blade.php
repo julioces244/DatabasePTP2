@@ -164,7 +164,8 @@
            transform="translate(518.001,783.8643)"
            id="g20"><path
              id="path22"
-             style="fill:#f6f6f6;fill-opacity:1;fill-rule:nonzero;stroke:none"
+
+             style="fill:#f6f6f6;fill-opacity:1;fill-rule:nonzero;stroke:none;"
              d="m 0,0 c 0,0 -2.306,0.769 -4.355,1.281 -2.049,0.512 -1.793,1.281 -4.611,4.355 -2.818,3.074 -2.305,2.05 -3.843,4.099 -1.538,2.049 -1.794,3.074 -2.049,6.661 -0.257,3.586 -0.257,1.536 -0.257,3.33 0,1.793 -2.561,0.512 -3.586,0.768 -1.025,0.256 -1.28,1.281 -3.587,4.868 -1.503,2.337 -1.806,2.496 -1.837,2.325 0.029,-0.163 0.044,-0.276 0.044,-0.276 0,0 -0.06,0.184 -0.044,0.276 -0.1,0.563 -0.384,1.831 -0.98,2.03 -0.769,0.256 -1.538,2.305 -2.049,3.33 -0.513,1.025 0,1.281 0,4.099 0,2.818 0,1.024 -0.513,2.305 -0.513,1.281 -0.256,2.05 -0.513,2.819 -0.256,0.768 -0.768,1.793 -1.536,2.562 -0.768,0.768 -3.588,6.147 -4.612,7.685 -1.025,1.537 -1.025,4.098 -2.049,7.941 0,0 -0.769,2.306 -2.561,5.124 -1.794,2.817 0,0 -2.05,3.33 -2.05,3.33 -3.33,1.793 -3.843,2.561 -0.512,0.769 -1.537,0 -4.1,1.026 -2.561,1.024 -1.793,2.049 -3.073,4.355 -1.281,2.305 -1.281,0.512 -5.379,2.561 -4.099,2.05 -2.819,1.281 -2.819,1.281 l -4.355,0.512 c 0,0 1.537,-1.281 0.257,-2.305 -1.281,-1.025 -0.513,-0.257 -2.305,-1.537 -1.794,-1.281 -2.307,-1.794 -4.869,-2.562 -2.561,-0.769 -5.38,-1.793 -5.38,-1.793 0,0 -0.512,-0.769 -2.817,-2.306 -2.306,-1.537 -1.537,-1.281 -3.586,-2.306 -2.051,-1.024 -5.637,-2.817 -6.917,-3.33 -1.282,-0.512 -3.075,-2.049 -3.075,-2.818 0,-0.769 1.537,0 -0.768,-1.793 -2.306,-1.793 -3.587,-3.074 -4.355,-3.074 -0.769,0 -1.28,1.025 -5.123,0.769 l -3.843,-0.257 c 0,0 0.769,0 -1.538,-2.049 -2.305,-2.049 -1.792,-1.281 -3.843,-4.611 -2.049,-3.331 -2.049,-5.38 -3.073,-6.404 -1.024,-1.026 -4.868,-3.331 -7.686,-3.843 -2.817,-0.512 -4.099,-1.281 -5.123,-1.281 -1.024,0 -3.331,0.256 -5.124,-1.281 -1.68,-1.441 1.368,-4.009 -3.948,-4.323 l 22.393,-83.802 1.281,0 c 1.28,0 3.842,-2.05 5.38,-3.074 1.537,-1.025 5.124,0.256 5.124,0.256 0,0 1.023,-2.818 1.281,-3.587 0.256,-0.768 4.355,-6.917 7.942,-10.503 3.585,-3.586 0,0 0.767,-0.513 0.77,-0.512 1.281,-0.768 2.305,-2.817 1.026,-2.05 5.381,-3.074 7.175,-4.099 1.793,-1.025 2.817,-3.074 6.659,-5.892 3.844,-2.818 2.819,0 3.588,0 0.087,0 0.169,0.013 0.252,0.032 0.653,0.158 1.289,0.939 3.334,2.53 2.304,1.793 2.048,0.768 3.073,1.793 1.025,1.025 3.587,2.818 5.637,5.38 2.048,2.561 2.304,2.305 4.611,3.33 2.306,1.025 3.586,1.793 4.354,2.305 0.769,0.513 4.1,2.306 7.686,3.843 3.586,1.537 3.074,2.049 2.561,5.124 -0.512,3.074 0,0 0,1.28 0,1.281 0,2.05 -1.28,2.562 -1.281,0.513 -4.355,-0.512 -4.098,1.537 0.255,2.05 3.073,3.075 4.098,4.868 1.025,1.793 0,3.074 0.512,5.379 0.513,2.306 1.793,1.794 3.844,6.149 2.048,4.355 0,3.586 0.767,5.636 0.769,2.049 1.281,1.536 2.05,1.793 0.769,0.256 2.306,0.769 2.817,1.537 0.513,0.768 2.05,0 4.1,0.512 2.049,0.513 4.099,0 6.916,1.794 2.818,1.793 1.538,1.281 3.331,3.074 1.793,1.793 1.793,2.562 2.049,3.843 0.256,1.28 1.281,2.817 2.049,4.355 0.768,1.536 1.537,1.024 1.537,1.024 0,0 2.562,1.793 4.612,3.074 2.049,1.281 2.562,1.793 3.329,1.793 0.769,0 3.844,1.281 5.893,2.818 C 2.306,-1.025 0,0 0,0" /></g><g
            transform="translate(518.001,783.8643)"
            id="g24"><path
@@ -706,10 +707,7 @@
              d="m 0,0 c 0,-5.685 -5.373,-10.294 -12,-10.294 l -167,0 c -6.627,0 -12,4.609 -12,10.294 l 0,132.116 c 0,5.686 5.373,10.295 12,10.295 l 167,0 c 6.627,0 12,-4.609 12,-10.295 L 0,0 Z" /></g><path
            id="path460"
            style="fill:none;stroke:#686868;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-           d="m 88,233 -34.5,0 0,21 34.5,0 0,-21 z" /><path
-           id="path462"
-           style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-           d="m 88,182.504 -34.5,0 0,21 34.5,0 0,-21 z" /></g></g>
+           d="m 88,233 -34.5,0 0,21 34.5,0 0,-21 z" /></g></g>
 
            <text
        id="text464"
@@ -717,7 +715,7 @@
        transform="matrix(1,0,0,-1,101.9985,239.668)"><tspan
          id="tspan466"
          y="0"
-         x="0 9.3859997 16.614 27.443001 34.671001 39 45.5 52.728001 59.228001 62.113998 69.342003 76.57 80.183998 87.412003 93.912003 97.526001 104.754 111.982">Mas de 0.3%</tspan></text>
+         x="0 9.3859997 16.614 27.443001 34.671001 39 45.5 52.728001 59.228001 62.113998 69.342003 76.57 80.183998 87.412003 93.912003 97.526001 104.754 111.982">ANCASH PROVINCIAS</tspan></text>
 <!--
 <text
        id="text468"
@@ -811,31 +809,132 @@
                   <tr>
                     <th scope="col">#</th>
                     <th scope="col">Provincia</th>
-                    <th scope="col">Casos</th>
+                    <th scope="col">Gravedad</th>
 
                   </tr>
                 </thead>
                 <tbody>
 
-
-                  @foreach ($provincias as $provincia)
-                    <tr>
-
-
-
-                      <th>{{$provincia->idancashprovinces}}</th>
-                      <td>{{$provincia->nombre}}</td>
-
-
-                      <td>{{$provincia->casos}} </td>
-
-
-
+                    <tr id="column1">
+                      <th>1</th>
+                      <td>Aija</td>
+                      <td>{{$pcaija}}% </td>
                     </tr>
-                    @endforeach
+
+                    <tr id="column2">
+                      <th>2</th>
+                      <td>Antonio Raymondi</td>
+                      <td>{{$pcraymondi}}% </td>
+                    </tr>
+
+                    <tr id="column3">
+                      <th>3</th>
+                      <td>Asuncion</td>
+                      <td>{{$pcasuncion}}% </td>
+                    </tr>
+
+                    <tr id="column4">
+                      <th>4</th>
+                      <td>Bolognesi</td>
+                      <td>{{$pcbolognesi}}% </td>
+                    </tr>
+
+                    <tr id="column5">
+                      <th>5</th>
+                      <td>Carhuaz</td>
+                      <td>{{$pccarhuaz}}% </td>
+                    </tr>
+
+                    <tr id="column6">
+                      <th>6</th>
+                      <td>CF Fitzcarrald</td>
+                      <td>{{$pcfitzcarrald}}% </td>
+                    </tr>
 
 
+                    <tr id="column7">
+                      <th>7</th>
+                      <td>Casma</td>
+                      <td>{{$pccasma}}% </td>
+                    </tr>
 
+                    <tr id="column8">
+                      <th>8</th>
+                      <td>Corongo</td>
+                      <td>{{$pccorongo}}% </td>
+                    </tr>
+
+                    <tr id="column9">
+                      <th>9</th>
+                      <td>Huaraz</td>
+                      <td>{{$pchuaraz}}% </td>
+                    </tr>
+
+                    <tr id="column10">
+                      <th>10</th>
+                      <td>Huari</td>
+                      <td>{{$pchuari}}% </td>
+                    </tr>
+
+                    <tr id="column11">
+                      <th>11</th>
+                      <td>Huarmey</td>
+                      <td>{{$pchuarmey}}% </td>
+                    </tr>
+
+                    <tr id="column12">
+                      <th>12</th>
+                      <td>Huaylas</td>
+                      <td>{{$pchuaylas}}% </td>
+                    </tr>
+
+                    <tr id="column13">
+                      <th>13</th>
+                      <td>Luzurriaga</td>
+                      <td>{{$pcluzurriaga}}% </td>
+                    </tr>
+
+                    <tr id="column14">
+                      <th>14</th>
+                      <td>Ocros</td>
+                      <td>{{$pcocros}}% </td>
+                    </tr>
+
+                    <tr id="column15">
+                      <th>15</th>
+                      <td>Pallasca</td>
+                      <td>{{$pcpallasca}}% </td>
+                    </tr>
+
+                    <tr id="column16">
+                      <th>16</th>
+                      <td>Pomabamba</td>
+                      <td>{{$pcpomabamba}}% </td>
+                    </tr>
+
+                    <tr id="column17">
+                      <th>17</th>
+                      <td>Recuay</td>
+                      <td>{{$pcrecuay}}% </td>
+                    </tr>
+
+                    <tr id="column18">
+                      <th>18</th>
+                      <td>Santa</td>
+                      <td>{{$pcsanta}}% </td>
+                    </tr>
+
+                    <tr id="column19">
+                      <th>19</th>
+                      <td>Sihuas</td>
+                      <td>{{$pcsihuas}}% </td>
+                    </tr>
+
+                    <tr id="column20">
+                      <th>20</th>
+                      <td>Yungay</td>
+                      <td>{{$pcyungay}}% </td>
+                    </tr>
 
 
                 </tbody>
@@ -896,6 +995,357 @@
 
 
        </div>
+       {{$pcsanta}}
+
+
+       <script type="text/javascript">
+        var jobs = JSON.parse("{{ json_encode($pcsihuas) }}");
+        var pcrecuay = JSON.parse("{{ json_encode($pcrecuay) }}");
+        var pcbolognesi = JSON.parse("{{ json_encode($pcbolognesi) }}");
+        var pcaija = JSON.parse("{{ json_encode($pcaija) }}");
+        var pchuaraz = JSON.parse("{{ json_encode($pchuaraz) }}");
+        var pcsanta = JSON.parse("{{ json_encode($pcsanta) }}");
+        var pccasma = JSON.parse("{{ json_encode($pccasma) }}");
+        var pccarhuaz = JSON.parse("{{ json_encode($pccarhuaz) }}");
+        var pcasuncion = JSON.parse("{{ json_encode($pcasuncion) }}");
+        var pcyungay = JSON.parse("{{ json_encode($pcyungay) }}");
+        var pchuaylas = JSON.parse("{{ json_encode($pchuaylas) }}");
+        var pccorongo = JSON.parse("{{ json_encode($pccorongo) }}");
+        var pcpallasca = JSON.parse("{{ json_encode($pcpallasca) }}");
+        var pcocros = JSON.parse("{{ json_encode($pcocros) }}");
+        var pchuari = JSON.parse("{{ json_encode($pchuari) }}");
+        var pcfitzcarrald = JSON.parse("{{ json_encode($pcfitzcarrald) }}");
+        var pcluzurriaga = JSON.parse("{{ json_encode($pcluzurriaga) }}");
+        var pchuarmey = JSON.parse("{{ json_encode($pchuarmey) }}");
+        var pcpomabamba = JSON.parse("{{ json_encode($pcpomabamba) }}");
+        var pcraymondi = JSON.parse("{{ json_encode($pcraymondi) }}");
+
+        var d = document.getElementById("path22");
+        var recuay = document.getElementById("path38");
+        var bolognesi = document.getElementById("path30");
+        var aija = document.getElementById("path46");
+        var huaraz = document.getElementById("path54");
+        var santa = document.getElementById("path94");
+        var casma = document.getElementById("path150");
+        var carhuaz = document.getElementById("path62");
+        var asuncion = document.getElementById("path70");
+        var yungay = document.getElementById("path78");
+        var huaylas = document.getElementById("path86");
+        var corongo = document.getElementById("path158");
+        var pallasca = document.getElementById("path166");
+        var ocros = document.getElementById("path182");
+        var huari = document.getElementById("path246");
+        var fitzcarrald = document.getElementById("path398");
+        var luzurriaga = document.getElementById("path406");
+        var huarmey = document.getElementById("path414");
+        var pomabamba = document.getElementById("path422");
+        var raymondi = document.getElementById("path286");
+
+        var column19 = document.getElementById("column19");
+        var column17 = document.getElementById("column17");
+        var column4 = document.getElementById("column4");
+        var column1 = document.getElementById("column1");
+        var column9 = document.getElementById("column9");
+        var column18 = document.getElementById("column18");
+        var column7 = document.getElementById("column7");
+        var column5 = document.getElementById("column5");
+        var column3 = document.getElementById("column3");
+        var column20 = document.getElementById("column20");
+        var column12 = document.getElementById("column12");
+        var column8 = document.getElementById("column8");
+        var column15 = document.getElementById("column15");
+        var column14 = document.getElementById("column14");
+        var column10 = document.getElementById("column10");
+        var column6 = document.getElementById("column6");
+        var column13 = document.getElementById("column13");
+        var column11 = document.getElementById("column11");
+        var column16 = document.getElementById("column16");
+        var column2 = document.getElementById("column2");
+
+
+       if(jobs>0.3){
+         d.setAttribute("style", "fill: #FFB3B3");
+       }else if(jobs<= 0.3 && jobs>=0.1){
+         d.setAttribute("style", "fill: #f2c19c");
+       }else if(jobs<0.1){
+         d.setAttribute("style", "fill: #caf5e0");
+       }
+
+         d.onmouseover = function()
+          {column19.style.backgroundColor = "#4CC4CF";}
+          d.onmouseleave = function(){column19.style.backgroundColor = "";}
+
+          //Recuay
+
+          if(pcrecuay>0.3){
+            recuay.setAttribute("style", "fill: #FFB3B3");
+          }else if(pcrecuay<= 0.3 && pcrecuay>=0.1){
+            recuay.setAttribute("style", "fill: #f2c19c");
+          }else if(pcrecuay<0.1){
+            recuay.setAttribute("style", "fill: #caf5e0");
+          }
+
+            recuay.onmouseover = function()
+             {column17.style.backgroundColor = "#4CC4CF";}
+             recuay.onmouseleave = function(){column17.style.backgroundColor = "";}
+
+        //bolognesi
+        if(pcbolognesi>0.3){
+          bolognesi.setAttribute("style", "fill: #FFB3B3");
+        }else if(pcbolognesi<= 0.3 && pcbolognesi>=0.1){
+          bolognesi.setAttribute("style", "fill: #f2c19c");
+        }else if(pcbolognesi<0.1){
+          bolognesi.setAttribute("style", "fill: #caf5e0");
+        }
+
+          bolognesi.onmouseover = function()
+           {column4.style.backgroundColor = "#4CC4CF";}
+           bolognesi.onmouseleave = function(){column4.style.backgroundColor = "";}
+
+
+        //aija
+        if(pcaija>0.3){
+          aija.setAttribute("style", "fill: #FFB3B3");
+        }else if(pcaija<= 0.3 && pcaija>=0.1){
+          aija.setAttribute("style", "fill: #f2c19c");
+        }else if(pcaija<0.1){
+          aija.setAttribute("style", "fill: #caf5e0");
+        }
+
+        aija.onmouseover = function()
+           {column1.style.backgroundColor = "#4CC4CF";}
+           aija.onmouseleave = function(){column1.style.backgroundColor = "";}
+
+        //huaraz
+        if(pchuaraz>0.3){
+          huaraz.setAttribute("style", "fill: #FFB3B3");
+        }else if(pchuaraz<= 0.3 && pchuaraz>=0.1){
+          huaraz.setAttribute("style", "fill: #f2c19c");
+        }else if(pchuaraz<0.1){
+          huaraz.setAttribute("style", "fill: #caf5e0");
+        }
+
+        huaraz.onmouseover = function()
+           {column9.style.backgroundColor = "#4CC4CF";}
+           huaraz.onmouseleave = function(){column9.style.backgroundColor = "";}
+
+        //santa
+        if(pcsanta>0.3){
+          santa.setAttribute("style", "fill: #FFB3B3");
+        }else if(pcsanta<= 0.3 && pcsanta>=0.1){
+          santa.setAttribute("style", "fill: #f2c19c");
+        }else if(pcsanta<0.1){
+          santa.setAttribute("style", "fill: #caf5e0");
+        }
+
+        santa.onmouseover = function()
+           {column18.style.backgroundColor = "#4CC4CF";}
+           santa.onmouseleave = function(){column18.style.backgroundColor = "";}
+
+
+           //casma
+           if(pccasma>0.3){
+             casma.setAttribute("style", "fill: #FFB3B3");
+           }else if(pccasma<= 0.3 && pccasma>=0.1){
+             casma.setAttribute("style", "fill: #f2c19c");
+           }else if(pccasma<0.1){
+             casma.setAttribute("style", "fill: #caf5e0");
+           }
+
+           casma.onmouseover = function()
+              {column7.style.backgroundColor = "#4CC4CF";}
+              casma.onmouseleave = function(){column7.style.backgroundColor = "";}
+
+              //carhuaz
+              if(pccarhuaz>0.3){
+                carhuaz.setAttribute("style", "fill: #FFB3B3");
+              }else if(pccarhuaz<= 0.3 && pccarhuaz>=0.1){
+                carhuaz.setAttribute("style", "fill: #f2c19c");
+              }else if(pccarhuaz<0.1){
+                carhuaz.setAttribute("style", "fill: #caf5e0");
+              }
+
+              carhuaz.onmouseover = function()
+                 {column5.style.backgroundColor = "#4CC4CF";}
+                 carhuaz.onmouseleave = function(){column5.style.backgroundColor = "";}
+
+
+              //asuncion
+              if(pcasuncion>0.3){
+                asuncion.setAttribute("style", "fill: #FFB3B3");
+              }else if(pcasuncion<= 0.3 && pcasuncion>=0.1){
+                asuncion.setAttribute("style", "fill: #f2c19c");
+              }else if(pcasuncion<0.1){
+                asuncion.setAttribute("style", "fill: #caf5e0");
+              }
+
+                asuncion.onmouseover = function()
+                {column3.style.backgroundColor = "#4CC4CF";}
+                asuncion.onmouseleave = function(){column3.style.backgroundColor = "";}
+
+                //yungay
+            if(pcyungay>0.3){
+              yungay.setAttribute("style", "fill: #FFB3B3");
+            }else if(pcyungay<= 0.3 && pcyungay>=0.1){
+              yungay.setAttribute("style", "fill: #f2c19c");
+            }else if(pcyungay<0.1){
+              yungay.setAttribute("style", "fill: #caf5e0");
+            }
+
+            yungay.onmouseover = function()
+            {column20.style.backgroundColor = "#4CC4CF";}
+            yungay.onmouseleave = function(){column20.style.backgroundColor = "";}
+
+
+        //Huaylas
+        if(pchuaylas>0.3){
+          huaylas.setAttribute("style", "fill: #FFB3B3");
+        }else if(pchuaylas<= 0.3 && pchuaylas>=0.1){
+          huaylas.setAttribute("style", "fill: #f2c19c");
+        }else if(pchuaylas<0.1){
+          huaylas.setAttribute("style", "fill: #caf5e0");
+        }
+
+        huaylas.onmouseover = function()
+        {column12.style.backgroundColor = "#4CC4CF";}
+        huaylas.onmouseleave = function(){column12.style.backgroundColor = "";}
+
+
+        //Corongo
+        if(pccorongo>0.3){
+          corongo.setAttribute("style", "fill: #FFB3B3");
+        }else if(pccorongo<= 0.3 && pccorongo>=0.1){
+          corongo.setAttribute("style", "fill: #f2c19c");
+        }else if(pccorongo<0.1){
+          corongo.setAttribute("style", "fill: #caf5e0");
+        }
+
+        corongo.onmouseover = function()
+        {column8.style.backgroundColor = "#4CC4CF";}
+        corongo.onmouseleave = function(){column8.style.backgroundColor = "";}
+
+        //Pallasca
+        if(pcpallasca>0.3){
+          pallasca.setAttribute("style", "fill: #FFB3B3");
+        }else if(pcpallasca<= 0.3 && pcpallasca>=0.1){
+          pallasca.setAttribute("style", "fill: #f2c19c");
+        }else if(pcpallasca<0.1){
+          pallasca.setAttribute("style", "fill: #caf5e0");
+        }
+
+        pallasca.onmouseover = function()
+        {column15.style.backgroundColor = "#4CC4CF";}
+        pallasca.onmouseleave = function(){column15.style.backgroundColor = "";}
+
+        //Ocros
+        if(pcocros>0.3){
+          ocros.setAttribute("style", "fill: #FFB3B3");
+        }else if(pcocros<= 0.3 && pcocros>=0.1){
+          ocros.setAttribute("style", "fill: #f2c19c");
+        }else if(pcocros<0.1){
+          ocros.setAttribute("style", "fill: #caf5e0");
+        }
+
+        ocros.onmouseover = function()
+        {column14.style.backgroundColor = "#4CC4CF";}
+        ocros.onmouseleave = function(){column14.style.backgroundColor = "";}
+
+        //Huari
+        if(pchuari>0.3){
+          huari.setAttribute("style", "fill: #FFB3B3");
+        }else if(pchuari<= 0.3 && pchuari>=0.1){
+          huari.setAttribute("style", "fill: #f2c19c");
+        }else if(pchuari<0.1){
+          huari.setAttribute("style", "fill: #caf5e0");
+        }
+
+        huari.onmouseover = function()
+        {column10.style.backgroundColor = "#4CC4CF";}
+        huari.onmouseleave = function(){column10.style.backgroundColor = "";}
+
+        //cf fitzcarrald
+        if(pcfitzcarrald>0.3){
+          fitzcarrald.setAttribute("style", "fill: #FFB3B3");
+        }else if(pcfitzcarrald<= 0.3 && pcfitzcarrald>=0.1){
+          fitzcarrald.setAttribute("style", "fill: #f2c19c");
+        }else if(pcfitzcarrald<0.1){
+          fitzcarrald.setAttribute("style", "fill: #caf5e0");
+        }
+
+        fitzcarrald.onmouseover = function()
+        {column6.style.backgroundColor = "#4CC4CF";}
+        fitzcarrald.onmouseleave = function(){
+          column6.style.backgroundColor = "";}
+
+
+        //Luzurriaga
+        if(pcluzurriaga>0.3){
+          luzurriaga.setAttribute("style", "fill: #FFB3B3");
+        }else if(pcluzurriaga<= 0.3 && pcluzurriaga>=0.1){
+          luzurriaga.setAttribute("style", "fill: #f2c19c");
+        }else if(pcluzurriaga<0.1){
+          luzurriaga.setAttribute("style", "fill: #caf5e0");
+
+        }
+
+        luzurriaga.onmouseover = function()
+        {column13.style.backgroundColor = "#4CC4CF";}
+        luzurriaga.onmouseleave = function(){
+          column13.style.backgroundColor = "";}
+
+        //Huarmey
+        if(pchuarmey>0.3){
+          huarmey.setAttribute("style", "fill: #FFB3B3");
+        }else if(pchuarmey<= 0.3 && pchuarmey>=0.1){
+          huarmey.setAttribute("style", "fill: #f2c19c");
+        }else if(pchuarmey<0.1){
+          huarmey.setAttribute("style", "fill: #caf5e0");
+
+        }
+
+        huarmey.onmouseover = function()
+        {column11.style.backgroundColor = "#4CC4CF";}
+        huarmey.onmouseleave = function(){
+          column11.style.backgroundColor = "";}
+
+
+        //Pomabamba
+        if(pcpomabamba>0.3){
+          pomabamba.setAttribute("style", "fill: #FFB3B3");
+        }else if(pcpomabamba<= 0.3 && pcpomabamba>=0.1){
+          pomabamba.setAttribute("style", "fill: #f2c19c");
+        }else if(pcpomabamba<0.1){
+          pomabamba.setAttribute("style", "fill: #caf5e0");
+
+        }
+
+        pomabamba.onmouseover = function()
+        {column16.style.backgroundColor = "#4CC4CF";}
+        pomabamba.onmouseleave = function(){
+          column16.style.backgroundColor = "";}
+
+      // antonio raymondi
+      if(pcraymondi>0.3){
+        raymondi.setAttribute("style", "fill: #FFB3B3");
+      }else if(pcraymondi<= 0.3 && pcraymondi>=0.1){
+        raymondi.setAttribute("style", "fill: #f2c19c");
+      }else if(pcraymondi<0.1){
+        raymondi.setAttribute("style", "fill: #caf5e0");
+
+      }
+
+      raymondi.onmouseover = function()
+      {column2.style.backgroundColor = "#4CC4CF";}
+      raymondi.onmouseleave = function(){
+        column2.style.backgroundColor = "";}
+
+
+
+
+
+
+
+       </script>
              <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
              <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
              <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>

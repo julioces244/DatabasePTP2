@@ -67,17 +67,17 @@
 
                     <div class="form-group">
                       <label for="exampleFormControlTextarea1">Contagiados</label>
-                      <input type="number" class="form-control" id="fechaingreso" name="casos" value="{{$provi->casos}}">
+                      <input type="number" class="form-control" id="fechaingreso" name="casos" value="{{$provi->casos}}" max="{{$provi->poblacion}}" min="0">
                     </div>
 
                     <div class="form-group">
                       <label for="exampleFormControlInput1">Recuperados</label>
-                      <input type="number" class="form-control" id="casos" name="recuperados" value="{{$provi->recuperados}}">
+                      <input type="number" class="form-control" id="casos" name="recuperados" value="{{$provi->recuperados}}" max="{{$provi->poblacion}}" min="0">
                     </div>
 
                     <div class="form-group">
                       <label for="exampleFormControlInput1">Fallecidos</label>
-                      <input type="number" class="form-control" id="fallecidos" name="fallecidos" value="{{$provi->fallecidos}}">
+                      <input type="number" class="form-control" id="fallecidos" name="fallecidos" value="{{$provi->fallecidos}}" max="{{$provi->poblacion}}" min="0">
                     </div>
 
                     <center>

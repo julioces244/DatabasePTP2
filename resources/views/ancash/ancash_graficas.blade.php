@@ -52,9 +52,21 @@
         <div class="col-4">
           <div class="card" align="center">
             <div class="card-body" align="center">
-              Última vez actualizado
+              Actualizado al
               <br>
               {{$fechaultima}}
+              <br><br>
+              Último ingreso de reporte
+              <br>
+              {{$ultimoactualizado}}
+              <br>
+              <br>
+              <h5>Último Reporte</h5>
+              Casos CoVid-19:
+              {{$ultimoscasos}}
+              <br>
+              Fallecidos:
+              {{$ultimosfallecidos}}
               <br><br>
               <a href="/ingresar_datos" class="btn btn-info btn-block">Agregar</a>
             </div>

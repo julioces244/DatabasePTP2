@@ -47,6 +47,69 @@ class MapaController extends Controller
         array_push($porcentajeprovincias, (round(($provincia->casos/$provincia->poblacion)*100 )));
 
 
+        $bolognesi = DB::table('ancashprovinces')->where('idancashprovinces',1)->first();
+        $pcbolognesi = round(($bolognesi->casos/$bolognesi->poblacion)*100,4);
+
+        $carhuaz = DB::table('ancashprovinces')->where('idancashprovinces',2)->first();
+        $pccarhuaz = round(($carhuaz->casos/$carhuaz->poblacion)*100,4);
+
+        $casma = DB::table('ancashprovinces')->where('idancashprovinces',3)->first();
+        $pccasma = round(($casma->casos/$casma->poblacion)*100,4);
+
+        $corongo = DB::table('ancashprovinces')->where('idancashprovinces',4)->first();
+        $pccorongo = round(($corongo->casos/$corongo->poblacion)*100,4);
+
+        $huaraz = DB::table('ancashprovinces')->where('idancashprovinces',5)->first();
+        $pchuaraz = round(($huaraz->casos/$huaraz->poblacion)*100,4);
+
+        $huari = DB::table('ancashprovinces')->where('idancashprovinces',6)->first();
+        $pchuari = round(($huari->casos/$huari->poblacion)*100,4);
+
+        $huarmey = DB::table('ancashprovinces')->where('idancashprovinces',7)->first();
+        $pchuarmey = round(($huarmey->casos/$huarmey->poblacion)*100,4);
+
+        $huaylas = DB::table('ancashprovinces')->where('idancashprovinces',8)->first();
+        $pchuaylas = round(($huaylas->casos/$huaylas->poblacion)*100,4);
+
+        $luzurriaga = DB::table('ancashprovinces')->where('idancashprovinces',9)->first();
+        $pcluzurriaga = round(($luzurriaga->casos/$luzurriaga->poblacion)*100,4);
+
+        $pallasca = DB::table('ancashprovinces')->where('idancashprovinces',10)->first();
+        $pcpallasca = round(($pallasca->casos/$pallasca->poblacion)*100,4);
+
+        $pomabamba = DB::table('ancashprovinces')->where('idancashprovinces',11)->first();
+        $pcpomabamba = round(($pomabamba->casos/$pomabamba->poblacion)*100,4);
+
+        $recuay = DB::table('ancashprovinces')->where('idancashprovinces',12)->first();
+        $pcrecuay = round(($recuay->casos/$recuay->poblacion)*100,4);
+
+        $santa = DB::table('ancashprovinces')->where('idancashprovinces',13)->first();
+        $pcsanta = round(($santa->casos/$santa->poblacion)*100,4);
+
+        $sihuas = DB::table('ancashprovinces')->where('idancashprovinces',14)->first();
+        $pcsihuas = round(($sihuas->casos/$sihuas->poblacion)*100,4);
+
+        $yungay = DB::table('ancashprovinces')->where('idancashprovinces',15)->first();
+        $pcyungay = round(($yungay->casos/$yungay->poblacion)*100,4);
+
+        $aija = DB::table('ancashprovinces')->where('idancashprovinces',16)->first();
+        $pcaija = round(($aija->casos/$aija->poblacion)*100,4);
+
+        $fitzcarrald = DB::table('ancashprovinces')->where('idancashprovinces',17)->first();
+        $pcfitzcarrald = round(($fitzcarrald->casos/$fitzcarrald->poblacion)*100,4);
+
+        $ocros = DB::table('ancashprovinces')->where('idancashprovinces',18)->first();
+        $pcocros = round(($ocros->casos/$ocros->poblacion)*100,4);
+
+        $raymondi = DB::table('ancashprovinces')->where('idancashprovinces',19)->first();
+        $pcraymondi = round(($raymondi->casos/$raymondi->poblacion)*100,4);
+
+        $asuncion = DB::table('ancashprovinces')->where('idancashprovinces',20)->first();
+        $pcasuncion = round(($asuncion->casos/$asuncion->poblacion)*100,4);
+
+        //dd($pcsanta);
+
+
 
         //array_push($arraygeneral,$porcentajeprovincias);
       //  array_push($arraygeneral,$arraynombres);
@@ -63,7 +126,27 @@ class MapaController extends Controller
         //$porcentajeprovincias = ($provinciascontagios/$provinciaspoblacion)*100;
         //dd($porcentajeprovincias);
         return view('ancash/provincias_ancash')->with('provincias',$provincias)->with('porcentajeprovincias',$porcentajeprovincias)
-        ->with('nombres',$nombres)->with('ids',$ids);
+        ->with('nombres',$nombres)->with('ids',$ids)
+        ->with('santa',$santa)->with('pcsanta',$pcsanta)
+        ->with('bolognesi',$bolognesi)->with('pcbolognesi',$pcbolognesi)
+        ->with('carhuaz',$carhuaz)->with('pccarhuaz',$pccarhuaz)
+        ->with('casma',$casma)->with('pccasma',$pccasma)
+        ->with('corongo',$corongo)->with('pccorongo',$pccorongo)
+        ->with('huaraz',$huaraz)->with('pchuaraz',$pchuaraz)
+        ->with('huari',$huari)->with('pchuari',$pchuari)
+        ->with('huarmey',$huarmey)->with('pchuarmey',$pchuarmey)
+        ->with('huaylas',$huaylas)->with('pchuaylas',$pchuaylas)
+        ->with('luzurriaga',$luzurriaga)->with('pcluzurriaga',$pcluzurriaga)
+        ->with('pallasca',$pallasca)->with('pcpallasca',$pcpallasca)
+        ->with('pomabamba',$pomabamba)->with('pcpomabamba',$pcpomabamba)
+        ->with('recuay',$recuay)->with('pcrecuay',$pcrecuay)
+        ->with('sihuas',$sihuas)->with('pcsihuas',$pcsihuas)
+        ->with('yungay',$yungay)->with('pcyungay',$pcyungay)
+        ->with('aija',$aija)->with('pcaija',$pcaija)
+        ->with('fitzcarrald',$fitzcarrald)->with('pcfitzcarrald',$pcfitzcarrald)
+        ->with('ocros',$ocros)->with('pcocros',$pcocros)
+        ->with('raymondi',$raymondi)->with('pcraymondi',$pcraymondi)
+        ->with('asuncion',$asuncion)->with('pcasuncion',$pcasuncion);
     }
 
     public function ingresardatos(){
@@ -99,10 +182,13 @@ class MapaController extends Controller
 
         $fechadate = DB::table('ancashcasos')->orderBy('fechaingreso','DESC')->first();
         $fechaultima = $fechadate->fechaingreso;
+        $ultimoscasos = $fechadate->casos;
+        $ultimosfallecidos = $fechadate->fallecidos;
+        $ultimoactualizado = $fechadate->created_at;
         //dd($fechadate->fechaingreso);
         //$fechaultima = $fechadate2->format('Y-m-d');
         return view('ancash/ancash_graficas')->with('fechas',$fechas)->with('fechas2',$fechas2)->with('fechaultima',$fechaultima)
-        ->with('porcentaje',$porcentaje);
+        ->with('porcentaje',$porcentaje)->with('ultimoscasos',$ultimoscasos)->with('ultimosfallecidos',$ultimosfallecidos)->with('ultimoactualizado',$ultimoactualizado);
     }
 
 
